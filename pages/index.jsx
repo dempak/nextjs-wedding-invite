@@ -295,7 +295,7 @@ const ShowInvite = ({ currentUrl, guestListLastUpdatedAt, guest }) => {
           marginBottom: 40,
         }}>
           <small>
-            <a style={{ color: 'grey' }} href="https://github.com/wzulfikar/nextjs-wedding-invite">
+            <a style={{ color: 'grey' }} href="https://berkahpbgn.com/">
               Built with&nbsp;<object style={{ height: "0.5rem" }} data="/assets/images/heart.svg" type="image/svg+xml"></object>&nbsp;using NextJS
             </a>
           </small>
